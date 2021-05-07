@@ -35,8 +35,6 @@ The application is written using Spring Framework.
 
 
 ## Analytics Endpoint
-Could be called from a browser:
-http://localhost:8080/api/text/analysis?word=<Word>&text=<TextToAnalyze>
 
 Curl query example:
 ```bash
