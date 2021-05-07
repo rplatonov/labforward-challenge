@@ -64,6 +64,10 @@ curl -X 'GET' \
 
 `mvn spring-boot:run`
 
+## Links
+
+[Releases](https://github.com/rplatonov/labforward-challenge/releases) for a detailed version history.
+
 ## User Interface markup
 
 ![Interface Mockup](mockup.png)
